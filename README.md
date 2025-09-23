@@ -4,7 +4,7 @@
 🚀 Always learning, always building - from tiny scripts to big ideas.  
 🤝 Open to collaboration, knowledge-sharing, and cool projects.  
 🌱 Currently diving into **Python, AI, and full-stack vibes**.  
-💡 Love discussing tech, logic puzzles, and the “why” behind the code.
+💡 Love discussing tech, logic puzzles, and the “why” behind the code.</br>
 😼 Call me **late_cat** — once a medico, now a coder.  
    Maybe I joined the race late, but I’m sprinting at 3×10^8 m/s ⚡🚀  
 😄Fun fact: I debug faster when the sun goes down; need motivation? I’m definitely your person! 🌙💻
