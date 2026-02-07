@@ -1,4 +1,6 @@
-# ⚡ Hey, I'm Bapi! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=%E2%9A%A1+Hey%2C+I'm+Bapi!+%F0%9F%91%8B" alt="Typing SVG" />
+</div>
 
 🔥 CSE student exploring **code, creativity, and coffee**  
 😾 Call me **late_cat** — once a medico, now sprinting at 3×10⁸ m/s ⚡  
