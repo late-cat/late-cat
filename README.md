@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&color=00FF00&background=0D1117&center=true&vCenter=true&pause=999999999&width=435&lines=%3E+Hey%2C+I'm+Bapi+%F0%9F%91%8B" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=22C55E&center=true&vCenter=true&repeat=false&width=435&lines=%3E+Hey%2C+I'm+Bapi" alt="Typing SVG" /></a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </div>
 
 🔥 CSE student exploring **code, creativity, and coffee**  
