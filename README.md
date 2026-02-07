@@ -1,12 +1,8 @@
 # ⚡ Hey, I'm Bapi! 👋
 
-🔥 Passionate CSE student, exploring the world of **code, creativity, and coffee**.  
-🚀 Always learning, always building - from tiny scripts to big ideas.  
-🤝 Open to collaboration, knowledge-sharing, and cool projects.  
-🌱 Currently diving into **Python, AI, and full-stack vibes**.  
-💡 Love discussing tech, logic puzzles, and the “why” behind the code.</br>
-😼 Call me **late_cat** — once a medico, now a coder.</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maybe I joined the race late, but I’m sprinting at 3×10^8 m/s ⚡🚀  
-😄Fun fact: I debug faster when the sun goes down; need motivation? I’m definitely your person! 🌙💻
+🔥 CSE student exploring **code, creativity, and coffee**  
+ Call me **late_cat** — once a medico, now sprinting at 3×10⁸ m/s ⚡  
+🌙 I debug faster after dark
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bapi_xc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/bapi-mondal-3153881b4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@bapi_xc) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@bapi-x) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bapieyes@gmail.com) 
