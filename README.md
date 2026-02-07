@@ -1,6 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=008F11&center=true&vCenter=true&repeat=false&width=435&lines=%3E+Hey%2C+I'm+Bapi" alt="Typing SVG" /></a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <img src="header.gif" alt="> Hey, I'm Bapi 👋" width="500" />
 </div>
 
 🔥 CSE student exploring **code, creativity, and coffee**  
