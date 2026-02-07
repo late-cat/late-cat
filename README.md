@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./typing-header.svg" alt="Hey, I'm Bapi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&color=00FF00&background=0D1117&center=true&vCenter=true&pause=999999999&width=435&lines=%3E+Hey%2C+I'm+Bapi+%F0%9F%91%8B" alt="Typing SVG" />
 </div>
 
 🔥 CSE student exploring **code, creativity, and coffee**  
