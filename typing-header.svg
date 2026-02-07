@@ -1,0 +1,60 @@
+<svg width="420" height="60" viewBox="0 0 420 60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="60" fill="#0d1117"/>
+  
+  <style>
+    .text {
+      font-family: "Fira Code", "Courier New", monospace;
+      font-size: 28px;
+      fill: #00ff00;
+    }
+
+    .typing {
+      overflow: hidden;
+      white-space: nowrap;
+      border-right: 3px solid #00ff00;
+      width: 0;
+      animation:
+        typing 2.2s steps(18, end) forwards,
+        cursor 0.8s step-end infinite;
+    }
+
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 270px; }
+    }
+
+    @keyframes cursor {
+      50% { border-color: transparent; }
+    }
+
+    .wave {
+      transform-origin: 70% 70%;
+      opacity: 0;
+      animation:
+        show 0.1s forwards 2.3s,
+        wave 1.2s infinite 2.4s;
+    }
+
+    @keyframes show {
+      to { opacity: 1; }
+    }
+
+    @keyframes wave {
+      0% { transform: rotate(0deg); }
+      15% { transform: rotate(14deg); }
+      30% { transform: rotate(-8deg); }
+      40% { transform: rotate(14deg); }
+      50% { transform: rotate(-4deg); }
+      60% { transform: rotate(10deg); }
+      70%, 100% { transform: rotate(0deg); }
+    }
+  </style>
+
+  <foreignObject x="10" y="10" width="300" height="45">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="text typing">
+      &gt; Hey, I'm Bapi
+    </div>
+  </foreignObject>
+
+  <text x="290" y="38" font-size="28" class="wave">👋</text>
+</svg>
