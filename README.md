@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=999999999&color=00FF00&background=0D1117&center=true&vCenter=true&repeat=false&width=420&height=50&lines=%3E+Hey%2C+I'm+Bapi+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1500&color=00FF00&background=0D1117&center=true&vCenter=true&repeat=true&width=350&height=50&lines=%3E+Hey%2C+I'm+Bapi" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32" alt="Waving Hand" />
 </div>
 
 🔥 CSE student exploring **code, creativity, and coffee**  
