@@ -3,7 +3,7 @@
 </div>
 
 🔥 CSE student exploring **code, creativity, and coffee**  
-😾 Call me **late_cat** — once a medico, now sprinting at 3×10⁸ m/s ⚡  
+😾 Call me **late_cat** - once a medico, now sprinting at 3×10⁸ m/s ⚡  
 🌙 I debug faster after dark
 
 ## 🌐 Socials:
